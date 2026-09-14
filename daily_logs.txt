@@ -1,0 +1,6 @@
+2025-12-22,BOOKING,2002,Guest 2 checked in to F1DLX-Q1
+2025-12-22,PAYMENT,2001,Payment RM 218 received
+2025-12-23,BOOKING,2003,Family room occupied on floor 1
+2025-12-24,MAINTENANCE,F4DLX-Q1,TV reported faulty
+2025-12-24,PAYMENT,2004,Payment RM 109 received
+2025-12-25,CLEANING,F3FAM1,Cleaning pending due to late checkout

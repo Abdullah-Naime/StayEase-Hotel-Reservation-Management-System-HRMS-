@@ -1,0 +1,9 @@
+2025-12-23,F2DLX-Q1,Air conditioner leaking water
+2025-12-24,F4DLX-Q1,Television not working
+2025-12-25,F3FAM1,Water heater malfunction
+2026-01-06,F4DLX-Q1,Television Fixed
+2026-01-06,F1STD-Q2,Living Room Light bulb not working
+2026-01-06,F1STD-S1,Wardrobe next to the door has termites in it
+2026-01-06,F3STD-S1,Lampside Table leg broken
+2026-01-06,F4FAM1,Wifi not working properly
+2026-01-09,F1STD-S1,Broken TV
