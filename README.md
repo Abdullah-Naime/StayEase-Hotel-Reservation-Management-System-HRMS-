@@ -20,5 +20,5 @@ A modular, Python command-line Hotel Reservation Management System (HRMS) design
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/StayEase-Hotel-Reservation-Management-System-HRMS-.git](https://github.com/YOUR_USERNAME/StayEase-Hotel-Reservation-Management-System-HRMS-.git)
+   git clone [https://github.com/Abdullah-Naime/StayEase-Hotel-Reservation-Management-System-HRMS-.git](https://github.com/Abdullah-Naime/StayEase-Hotel-Reservation-Management-System-HRMS-.git)
    cd StayEase-Hotel-Reservation-Management-System-HRMS-
